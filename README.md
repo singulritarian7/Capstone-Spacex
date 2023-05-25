@@ -22,3 +22,6 @@ Explore launch site success rates and proximity to geographical markers
 Visualize the launch sites with the most success and successful payload ranges
 Build Models to predict landing outcomes using logistic regression, support vector machine (SVM), decision tree and K-nearest neighbor (KNN)
 Results 
+# Dashboard app
+Please take a look of the spacex dashboard app here 
+https://beatrizjimen-8050.theiadocker-2-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/
